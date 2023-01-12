@@ -8,4 +8,4 @@
 | Name         | Model Class   | Training Method  |
 |-------|-------|-------|
 | bert_qa_train(with_plausible_answers) | bert-base-uncased | BertForQuestionAnswering |
-| bert_qa_train(without_plausible_answers) | bert-base-uncased | BertForQuestionAnswering |
+| bert_qa_train2(without_plausible_answers) | bert-base-uncased | BertForQuestionAnswering |
