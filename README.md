@@ -8,3 +8,4 @@
 | 5    | BART  | SQuAD Question Answering     | @HankyStyle  |
 | 7    | MiniLM| mrpc Sentence Classification | @l53513955   |
 | 8    | BERT  | SQuAD 2.0 Question Answering | @gigilin7    |
+| 11   | BART  | cnn_dailymail summarization | @dan890407    |
