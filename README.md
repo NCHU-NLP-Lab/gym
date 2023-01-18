@@ -10,3 +10,4 @@
 | 8    | BERT  | SQuAD 2.0 Question Answering | @gigilin7    |
 | 9    | BERT  | DRCD Question Answering      | @salmon-Xin  |
 | 11   | BART  | cnn_dailymail summarization | @dan890407    |
+| 64   | BERT  | mrpc Sentence Classification | @leonardo-lin    |
