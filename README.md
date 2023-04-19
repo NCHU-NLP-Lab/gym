@@ -10,5 +10,6 @@
 | 07    | MiniLM| mrpc Sentence Classification | @l53513955   |
 | 08    | BERT  | SQuAD 2.0 Question Answering | @gigilin7    |
 | 09    | BERT  | DRCD Question Answering      | @salmon-Xin  |
+| 10    | mBART  | DRCD Question Generation      | @good22014040  |
 | 11   | BART  | cnn_dailymail summarization | @dan890407    |
 | 12   | BART  | SQuAD Question Generation    | @s1072954    |
