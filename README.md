@@ -21,5 +21,5 @@
 |  | 14   | BERT    | chinese_abstractive_corpus text summarization | @nderrrrr |
 |  | 15   | mT5     | iwslt2017 translation             | @seanx12345 |
 |  | 16   | RoBERTa | glue_stsb Sentence similarity     | @puppyyyo |
-|  | 17   | BART    | llama2 chat 7b QLoRA gbharti/finance-alpaca | @cc3374twa |
-|  | 18   | BART    | Fine Tuning Zephyr7B GSM8K (math)         | @allen3325 |
+|  | 17   | BART    | llama2 chat 7b QLoRA gbharti/finance-alpaca | @allen3325 |
+|  | 18   | BART    | Fine Tuning Zephyr7B GSM8K (math)         | @cc3374twa |
