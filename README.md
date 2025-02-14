@@ -23,3 +23,9 @@
 |  | 16   | RoBERTa | glue_stsb Sentence similarity     | @puppyyyo |
 |  | 17   | BART    | llama2 chat 7b QLoRA gbharti/finance-alpaca | @allen3325 |
 |  | 18   | BART    | Fine Tuning Zephyr7B GSM8K (math)         | @cc3374twa |
+| s10 |
+|   | 19 | BERT               | Train Model Workflow and Huggingface | [@Coby0228](https://github.com/Coby0228) |
+|   | 20 | BERT               | Trainer and Tensorboard              | [@adsl135789](https://github.com/adsl135789) |
+|   | 21 | BERT               | Pipeline and Decoding Strategy       | [@IdONTKnowCHEK](https://github.com/IdONTKnowCHEK) |
+|   | 22 | Llama-3.2-3B-Instruct | Demo LoRA and QLoRA               | [@Rui0828](https://github.com/Rui0828) |
+|   | 23 | Llama-3.2-1B      | Distributed Inference                | [@yumeow0122](https://github.com/yumeow0122) |
